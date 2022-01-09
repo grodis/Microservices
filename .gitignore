@@ -1,0 +1,11 @@
+CommandsService/appsettings.Production.json
+CommandsService/appsettings.Development.json
+CommandsService/appsettings.json
+CommandsService/bin/Debug/net5.0/appsettings.Development.json
+CommandsService/bin/Debug/net5.0/appsettings.json
+PlatformService/bin/Debug/net5.0/appsettings.Production.json
+PlatformService/bin/Debug/net5.0/appsettings.json
+PlatformService/bin/Debug/net5.0/appsettings.Development.json
+PlatformService/appsettings.Development.json
+PlatformService/appsettings.json
+PlatformService/appsettings.Production.json
