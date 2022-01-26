@@ -1,6 +1,6 @@
 # .NET Microservices
 ## Based on the video created by Les Jackson
-
+[Youtube link]
 ## Tech
 
 Technologies used include:
@@ -24,3 +24,4 @@ MIT
    [RabbitMQ]: <https://www.rabbitmq.com/>
    [gRPC]: <https://grpc.io/>
    [.NET 5]: <https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio>
+   [Youtube link]: <https://www.youtube.com/watch?v=DgVjEo3OGBI>
